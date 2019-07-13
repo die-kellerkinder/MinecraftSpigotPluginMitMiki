@@ -4,5 +4,5 @@ version: 1.0
 api-version: 1.14
 commands:
   mycommand:
-    description: An example command
+    description: An example command 
     usage: /mycommand
